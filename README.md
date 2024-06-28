@@ -2,7 +2,7 @@
 
 *Description:* A web application designed to help users find the nearest hospitals by selecting their state and city. The app allows users to book appointments at hospitals and check their appointments after booking. It's targeted towards individuals seeking convenient access to healthcare facilities.
 
-*Live URL:* 
+*Live URL:* https://medify-slot-booking-fawn.vercel.app/
 
 ## Technical Stack
 - *React*
